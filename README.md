@@ -2,4 +2,4 @@
 
 this is where we will create our own API
 
-to run: `node index.js`
+to run: `npm start`
