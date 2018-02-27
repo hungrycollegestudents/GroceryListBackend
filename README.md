@@ -2,4 +2,6 @@
 
 this is where we will create our own API
 
-to run: `npm start`
+to access: https://grocery-list-cs3354.herokuapp.com
+
+Search: `/search?name=bread` will search for "bread"
